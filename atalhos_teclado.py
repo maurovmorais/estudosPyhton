@@ -1,0 +1,2 @@
+nome = Mauro
+print(idade)
